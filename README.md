@@ -1,5 +1,5 @@
 
-Created by izvern on 2021/04/19
+First Created by izvern on 2021/04/19
 
 I made this repository to study SwiftUI
 
