@@ -40,8 +40,8 @@ struct ContentView: View {
                         my_card(icon: "book.fill", title: "공부시간", s_time: "9PM", e_time: "10PM", bg_color: Color.black)
                         my_card(icon: "figure.walk", title: "운동시간", s_time: "10PM", e_time: "11PM", bg_color: Color.green)
                         my_card(icon: "hand.thumbsup.fill", title: "샤워시간", s_time: "11PM", e_time: "12PM", bg_color: Color.pink)
-                        my_card(icon: "hand.raised.slash.fill", title: "명상시간", s_time: "12PM", e_time: "1AM", bg_color: Color.gray)
-                        my_card(icon: "hand.raised.slash.fill", title: "취침시간", s_time: "1AM", e_time: "8AM", bg_color: Color.orange)
+                        my_card(icon: "hand.raised.slash.fill", title: "명상시간", s_time: "12PM", e_time: "1AM", bg_color: Color.orange)
+                        my_card(icon: "hand.raised.slash.fill", title: "취침시간", s_time: "1AM", e_time: "8AM", bg_color: Color.gray)
                     }
                 }
             }
