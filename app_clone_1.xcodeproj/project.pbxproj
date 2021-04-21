@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6F033088262FF243001200A6 /* my_list.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F033087262FF243001200A6 /* my_list.swift */; };
 		6F2CC6DA262BF5300061FBE5 /* app_clone_1App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F2CC6D9262BF5300061FBE5 /* app_clone_1App.swift */; };
 		6F2CC6DC262BF5300061FBE5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F2CC6DB262BF5300061FBE5 /* ContentView.swift */; };
 		6F2CC6DE262BF5300061FBE5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6F2CC6DD262BF5300061FBE5 /* Assets.xcassets */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		6F033087262FF243001200A6 /* my_list.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = my_list.swift; sourceTree = "<group>"; };
 		6F2CC6D6262BF5300061FBE5 /* app_clone_1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = app_clone_1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6F2CC6D9262BF5300061FBE5 /* app_clone_1App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = app_clone_1App.swift; sourceTree = "<group>"; };
 		6F2CC6DB262BF5300061FBE5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -105,11 +107,12 @@
 				6F2CC6D9262BF5300061FBE5 /* app_clone_1App.swift */,
 				6F2CC6DB262BF5300061FBE5 /* ContentView.swift */,
 				6F2CC726262C01F70061FBE5 /* main_card.swift */,
+				6F384DBA262D9C5A00B413D2 /* my_card.swift */,
 				6F2CC71D262C01B20061FBE5 /* sub_card.swift */,
+				6F033087262FF243001200A6 /* my_list.swift */,
 				6F2CC6DD262BF5300061FBE5 /* Assets.xcassets */,
 				6F2CC6E2262BF5300061FBE5 /* Info.plist */,
 				6F2CC6DF262BF5300061FBE5 /* Preview Content */,
-				6F384DBA262D9C5A00B413D2 /* my_card.swift */,
 			);
 			path = app_clone_1;
 			sourceTree = "<group>";
@@ -279,6 +282,7 @@
 				6F2CC727262C01F70061FBE5 /* main_card.swift in Sources */,
 				6F2CC71E262C01B20061FBE5 /* sub_card.swift in Sources */,
 				6F2CC6DC262BF5300061FBE5 /* ContentView.swift in Sources */,
+				6F033088262FF243001200A6 /* my_list.swift in Sources */,
 				6F2CC6DA262BF5300061FBE5 /* app_clone_1App.swift in Sources */,
 				6F384DBB262D9C5A00B413D2 /* my_card.swift in Sources */,
 			);
